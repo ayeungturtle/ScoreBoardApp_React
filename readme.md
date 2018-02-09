@@ -1,5 +1,5 @@
-#Scoreboard App
+# Scoreboard App
 
-I made this app while completing a Treehouse React online course.
+Scoreboard with customizable players and a timer.
 
 ![](example.gif)
